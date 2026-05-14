@@ -1,4 +1,4 @@
-# Luz Gustavo Caldeira Ribeiro
+# Luiz Gustavo Caldeira Ribeiro
 > Estudante de Ciência da Computação
  
 ---
