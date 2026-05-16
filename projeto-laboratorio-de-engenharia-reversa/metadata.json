@@ -1,0 +1,5 @@
+{
+  "name": "StackEdit Clone",
+  "description": "A faithful clone of StackEdit.io markdown editor with real-time preview.",
+  "requestFramePermissions": []
+}
