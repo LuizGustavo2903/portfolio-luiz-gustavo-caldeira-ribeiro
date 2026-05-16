@@ -13,7 +13,7 @@ A interface foi desenhada seguindo os princípios de **Vibecoding**, garantindo 
 
 ---
 
-![Preview do Projeto](./public/preview.png)
+![Preview do Projeto](./image/image1.png)
 *Figura 1: Interface principal com o layout split-screen e barra de ferramentas minimalista.*
 
 ## 🚀 Tecnologias Utilizadas
@@ -36,3 +36,5 @@ O projeto foi estruturado para fornecer um ambiente de escrita profissional:
 2. Instale as dependências: `npm install`.
 3. Execute o servidor de desenvolvimento: `npm run dev`.
 4. Abra `http://localhost:3000` no seu navegador.
+
+[Voltar ao início](https://github.com/LuizGustavo2903/portfolio-luiz-gustavo-caldeira-ribeiro)
